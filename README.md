@@ -11,5 +11,6 @@ Source : UDEMY KHANEDY (Programmer Zaman Now)
 7. [Belajar Golang Embed](https://github.com/dhany007/belajar-golang-embed)
 8. [Belajar Golang Web](https://github.com/dhany007/belajar-golang-web)
 9. [Belajar Golang HttpRouter](https://github.com/dhany007/belajar-golang-httprouter)
-10. [Belajar Golang JSON]()
-11. ...Next
+10. [Belajar Golang JSON](https://github.com/dhany007/belajar-golang-json)
+11. [Belajar Golang RESTful API](https://github.com/dhany007/belajar-golang-restful-api.git)
+12. ...Next
